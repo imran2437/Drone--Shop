@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Shutterstock",
+        "img": "https://dronelife.com/wp-content/uploads/2020/11/Hercules2sony34-1024x597.png",
+        "price": "50000"
+    },
+    {
+        "id": 2,
+        "name": "Quadrocopter",
+        "img": "https://smallbusinessify.com/wp-content/uploads/2021/01/shutterstock_728275162.jpg",
+        "price": "50000"
+    },
+    {
+        "id": 3,
+        "name": "Rotorbuilds",
+        "img": "https://ae01.alicdn.com/kf/HTB1X4oLbcfrK1Rjy0Fmq6xhEXXas/Global-Drone-X183S-RC-Drone-Quadrocopter-5G-1080P-Wide-Angle-WIFI-FPV-HD-Camera-GPS-Position.jpg",
+        "price": "200000"
+    },
+    {
+        "id": 4,
+        "name": "Airpeak",
+        "img": "https://rotorbuilds.com/pictures/f_13763_8IRnIZPlt9oyek9r4Q7TTSH5Z.jpg",
+        "price": "169000"
+    },
+    {
+        "id": 5,
+        "name": "Sky-drone",
+        "img": "https://thegadgetflow.com/wp-content/uploads/2021/01/Sony-Airpeak-Drone-02.jpg",
+        "price": "172000"
+    },
+    {
+        "id": 6,
+        "name": "Dream",
+        "img": "https://www.menkind.co.uk/media/catalog/product/cache/image/1000x/beff4985b56e3afdbeabfc89641a4582/s/k/sky-drone-plus-v2-white-1-52794_1.jpg",
+        "price": "190000"
+    },
+    {
+        "id": 7,
+        "name": "Vission",
+        "img": "https://gh.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/50194/1.jpg?7646",
+        "price": "64300"
+    },
+    {
+        "id": 8,
+        "name": "Xiaomi ",
+        "img": "https://n2.sdlcdn.com/imgs/g/6/l/Vision-Wifi-and-camera-drone-SDL998096168-1-cfba7.jpg",
+        "price": "74000"
+    },
+    {
+        "id": 9,
+        "name": "Samsung",
+        "img": "https://www.tienda24hs.com/WebRoot/StoreES/Shops/62148069/5A97/ECA2/9F2C/310B/0ADC/0A0C/6D00/EC06/17732-Cuadricoptero-Anfibio-Splash-Drone-3-Auto-G-Tienda24hs_ml.JPG",
+        "price": "25700"
+    },
+    {
+        "id": 10,
+        "name": "Apple",
+        "img": "https://pngimg.com/uploads/drone/drone_PNG123.png",
+        "price": "90000"
+    },
+    {
+        "id": 11,
+        "name": "Rainbow",
+        "img": "https://rotorbuilds.com/pictures/f_7433_TBCnXfZJOJfym927Vh4W95yMv.jpg",
+        "price": "87500"
+    },
+    {
+        "id": 12,
+        "name": "Tinda",
+        "img": "https://thegadgetflow.com/wp-content/uploads/2021/01/Sony-Airpeak-Drone-02.jpg",
+        "price": "98800"
+    },
+    {
+        "id": 13,
+        "name": "Stunderbold ",
+        "img": "https://smallbusinessify.com/wp-content/uploads/2021/01/shutterstock_728275162.jpg",
+        "price": "58700"
+    }
+]

@@ -1,0 +1,15 @@
+.cart{
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.cart img{
+   height: 40px;
+   width: 40px;
+   border-radius: 25px;
+   margin-right: 5px;
+}
+

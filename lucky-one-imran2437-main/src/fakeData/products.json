@@ -1,0 +1,116 @@
+[
+    {
+    "id": 1,
+    "name": "S21 Ultra 5G",
+    "img": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "price": "250000"
+    },
+    {
+    "id": 2,
+    "name": "Samsung Galaxy Note20 Ultra",
+    "img": "https://images.unsplash.com/photo-1597762470488-3877b1f538c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "price": "150000"
+    },
+    {
+    "id": 3,
+    "name": "Samsung Galaxy Fold",
+    "img": "https://images.unsplash.com/photo-1568378711447-f5eef04d85b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80",
+    "price": "200000"
+    },
+    {
+    "id": 4,
+    "name": "Samsung Galaxy Z Flip 3",
+    "img": "https://images.unsplash.com/photo-1634042148057-32603ec95d95?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "price": "169000"
+    },
+    {
+    "id": 5,
+    "name": "Beretta A400 Xcel",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
+    "bullet": "12 Gauge",
+    "capacity": "3 + 1",
+    "action": "Semi-Automatic",
+    "price": "1720",
+    "category": "Shotgun"
+    },
+    {
+    "id": 6,
+    "name": "Benelli M1014",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
+    "bullet": "12 Gauge",
+    "capacity": "5 + 1",
+    "action": "Semi-Automatic",
+    "price": "1900",
+    "category": "Shotgun"
+    },
+    {
+    "id": 7,
+    "name": "Browning Citori 725",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/Browning.png",
+    "bullet": "12 Gauge",
+    "capacity": "2",
+    "action": "Double Shot",
+    "price": "5430",
+    "category": "Shotgun"
+    },
+    {
+    "id": 8,
+    "name": "Winchester SXP",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/winchester.png",
+    "bullet": "12 Gauge",
+    "capacity": "5 + 1",
+    "action": "Pump",
+    "price": "570",
+    "category": "Shotgun"
+    },
+    {
+    "id": 9,
+    "name": "Bergara B-14 HMR",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/bergara.png",
+    "bullet": "6.5 Creedmoor",
+    "capacity": "5",
+    "action": "Semi-Automatic",
+    "price": "970",
+    "category": "Rifle"
+    },
+    {
+    "id": 10,
+    "name": "Smith & Wesson M&P15",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/S%26WM%26P15.png",
+    "bullet": "5.56x45mm NATO",
+    "capacity": "30 + 1",
+    "action": "Semi-Automatic",
+    "price": "800",
+    "category": "Rifle"
+    },
+    {
+    "id": 11,
+    "name": "Ruger AR-556",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556.png",
+    "bullet": ".223 NATO",
+    "capacity": "30+1",
+    "action": "Semi-Automatic",
+    "price": "750",
+    "category": "Rifle"
+    },
+    {
+    "id": 12,
+    "name": "Ruger AR-556 MPR",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556RMP.png",
+    "bullet": ".223 NATO",
+    "capacity": "30 + 1",
+    "action": "Semi-Automatic",
+    "price": "880",
+    "category": "Rifle"
+    },
+    {
+    "id": 13,
+    "name": "Savage 110 Elite",
+    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/savage110.png",
+    "bullet": ".300 Winchester Magnum",
+    "capacity": "5",
+    "action": "Bolt",
+    "price": "1870",
+    "category": "Rifle"
+    }
+    ]
